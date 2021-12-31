@@ -7,11 +7,7 @@ function App() {
   return (
     <div className="App">
       上传需求
-<<<<<<< HEAD
-      这个才是正确的
-=======
-      我也增加测试需求
->>>>>>> 2c05fbe7defb64b9f8e6c9cbbe29a2f945a1fa4c
+      <span>再次修改</span>
     </div>
   )
 }
