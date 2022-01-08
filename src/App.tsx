@@ -14,6 +14,12 @@ const Son2 = () => {
   )
 }
 
+const Son3 = () => {
+  return (
+    <div>新增第三个组件</div>
+  )
+}
+
 function App() {
 
   return (
@@ -40,6 +46,7 @@ function App() {
       <span>测试init</span>
       <Son />
       <Son2 />
+      <Son3 />
     </div>
   )
 }
