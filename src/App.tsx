@@ -2,6 +2,12 @@ import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
 
+const Son = () => {
+  return (
+    <div>新增一个组件</div>
+  )
+}
+
 function App() {
 
   return (
@@ -26,6 +32,7 @@ function App() {
       <span>测试types</span>
       <span>测试update</span>
       <span>测试init</span>
+      <Son />
     </div>
   )
 }
