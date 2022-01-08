@@ -1,0 +1,44 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.0.0](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v0.0.0...v1.0.0) (2022-01-08)
+
+
+### 代码测试
+
+* ✅ 测试test提交 ([8e8ff92](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/8e8ff92b318c272c14c72fd2e330ad63316a74ca))
+
+
+### 文档、注释
+
+* 📝 测试doc提交 ([e1bce03](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/e1bce03194229b0e534fd71833af4f7efc724bc1))
+
+
+### 其他
+
+* ⏪ 测试revert提交 ([6c2eb69](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/6c2eb6968d4c92d3766ea76d5c2ae312187d1c55))
+* 🌈 测试init提交 ([9f2f227](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/9f2f2270cab75a8eb75a742e527abcfab48ffee9))
+* 🏷  测试types提交 ([38bde7a](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/38bde7a9a5b2ac7117be3c56f89b6fa4c3047269))
+* 💅 测试style提交 ([753a3ce](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/753a3cef98925014e11237375daf1da34be565cc))
+* 📦 测试workflow提交 ([5809db6](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/5809db62360e7f5430a2ef96b6dd9bfe8592fa54))
+* 🤡 测试mod提交 ([cdaf374](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/cdaf374d2ec8527bc0b4b547e8afabdc5c7e7998))
+* 🚧 测试wip提交 ([7a668f7](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/7a668f7b7098ba794193f657ca74f0f7001fb466))
+
+
+### 版本记录
+
+* ⏫ 测试chore提交 ([fc847d9](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/fc847d9d3566009bc6b4be5e403e5b0cdf329d19))
+* ⏫ 提升版本到v1.0.0 ([32ac9e7](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/32ac9e7d9d68984a552fd5aaf937ff15b2fd4b00))
+* 🛳  测试release提交 ([5e2fd09](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/5e2fd09d1b6ce631101363db667e13261ae25564))
+
+
+### 调整代码
+
+* ♻️ 测试refactor提交 ([7ce6856](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/7ce68569efab1f8be89148d235f39a44dd5445fe))
+* ✏️  测试update提交 ([dac0a1c](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/dac0a1c40f2d4ef865835c795f679a5c41d48db0))
+* ✏️  修改package的脚本命令 ([1c1bf12](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/1c1bf12450ba3c18f9ac264b2bd80ad81b82611f))
+* ✏️  修改verionrc的逗号残留 ([4a56708](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/4a56708cde2b72b125467bf7b7cb9595f2774524))
+* ✏️  修改verionrc的注释 ([fea94a3](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/fea94a332c0996c801859e691fc2fe49756f8842))
+* 🐛 测试fix提交 ([74dbe79](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/74dbe798e1ab02ab62d491b41b0ba0ee3f8b055f))
+* 🐛 修复versionrc缺少的双引号 ([2b0ae58](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/2b0ae58f01b0f18d08c9d82ee34af770f778f245))
