@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v2.0.1...v2.0.2) (2022-01-08)
+
+
+### 新增功能
+
+* ✨新增chalk ([dbbdb46](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/dbbdb465294d83d6f5af409d9706ec9258c41667))
+
+
+### 调整代码
+
+* ✏️  修改配置 ([839b317](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/839b317dcb87870c28cb5379a407eed0cb938263))
+
 ### [2.0.1](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v2.0.0...v2.0.1) (2022-01-08)
 
 

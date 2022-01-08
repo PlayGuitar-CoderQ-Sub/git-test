@@ -1,13 +1,14 @@
 {
   "name": "vite-project",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "release": "standard-version",
-    "release:patch": "standard-version --release-as patch",
-    "release:first": "standard-version --first-release",
+    "release": "standard-version --no-verify",
+    "release:major": "standard-version --release-as major --no-verify",
+    "release:patch": "standard-version --release-as patch --no-verify",
+    "release:first": "standard-version --first-release --no-verify",
     "prepare": "husky install",
     "test": "echo 提交成功"
   },
