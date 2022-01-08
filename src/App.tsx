@@ -21,6 +21,7 @@ function App() {
       <span>测试release</span>
       <span>测试workflow</span>
       <span>测试ci</span>
+      <span>测试mod</span>
     </div>
   )
 }
