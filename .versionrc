@@ -54,15 +54,15 @@
       "section": "调整代码"
     },
     {
-      type: "init",
+      "type": "init",
       "section": "其他"
     },
     {
-      type: "feat",
+      "type": "feat",
       "section": "新增功能"
     },
     {
-      type: "fix",
+      "type": "fix",
       "section": "调整代码"
     }
   ]
