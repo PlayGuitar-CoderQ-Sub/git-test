@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v1.1.1...v2.0.0) (2022-01-08)
+
+
+### 新增功能
+
+* ✨新增一个Son3组件 ([0a7415e](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/0a7415e1beaf8947d7cf362e29b22e0bf3e2f77c))
+
 ### [1.1.1](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v1.1.0...v1.1.1) (2022-01-08)
 
 
