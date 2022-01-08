@@ -8,6 +8,12 @@ const Son = () => {
   )
 }
 
+const Son2 = () => {
+  return (
+    <div>新增第二个组件</div>
+  )
+}
+
 function App() {
 
   return (
@@ -33,6 +39,7 @@ function App() {
       <span>测试update</span>
       <span>测试init</span>
       <Son />
+      <Son2 />
     </div>
   )
 }
