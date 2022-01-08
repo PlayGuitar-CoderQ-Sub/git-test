@@ -25,6 +25,7 @@ function App() {
       <span>测试wip</span>
       <span>测试types</span>
       <span>测试update</span>
+      <span>测试init</span>
     </div>
   )
 }
