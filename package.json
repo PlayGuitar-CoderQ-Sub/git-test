@@ -9,7 +9,7 @@
     "release:patch": "standard-version --release-as patch",
     "release:first": "standard-version --first-release",
     "prepare": "husky install",
-    "test": "chalk.red('Hello world')"
+    "test": "echo 提交成功"
   },
   "dependencies": {
     "react": "^17.0.2",
