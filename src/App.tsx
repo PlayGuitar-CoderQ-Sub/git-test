@@ -14,6 +14,7 @@ function App() {
       <span>测试style</span>
       <span>测试pref</span>
       <span>测试refactor</span>
+      <span>测试revert</span>
     </div>
   )
 }
