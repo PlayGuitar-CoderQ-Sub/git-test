@@ -1,68 +1,68 @@
 {
   "types": [
     {
-      "type": "chore", // 版本升级
-      "section": "版本记录", // 在CHANGELOG 文件中的分类名
-      "hidden": false // 是否在CHANGELOG 中显示
+      "type": "chore",
+      "section": "版本记录",
+      "hidden": false
     },
     {
-      "type": "style", // 改进代码结构，格式
+      "type": "style",
       "section": "其他",
     },
     {
-      "type": "pref", // 提升性能
+      "type": "pref",
       "section": "提升性能",
     },
     {
-      "type": "refactor", // 重构代码
+      "type": "refactor",
       "section": "调整代码",
     },
     {
-      "type": "revert", // 撤销更改
+      "type": "revert",
       "section": "其他",
     },
     {
-      "type": "test", // 测试
+      "type": "test",
       "section": "代码测试",
     },
     {
-      "type": "docs", // 编写文档或注释
+      "type": "docs",
       "section": "文档、注释",
     },
     {
-      "type": "release", // 语义化版本
+      "type": "release",
       "section": "版本记录"
     },
     {
-      "type": "workflow", // 工作流改进 分支整改
+      "type": "workflow",
       "section": "其他",
     },
     {
-      "type": "mod", // 不确定的分类修改
+      "type": "mod",
       "section": "其他",
     },
     {
-      "type": "wip", // 开发中，正在进行的功能
+      "type": "wip",
       "section": "其他"
     },
     {
-      "type": "types", // 类型修改
+      "type": "types",
       "section": "其他"
     },
     {
-      "type": "update", // 修改
+      "type": "update",
       "section": "调整代码"
     },
     {
-      type: "init", // 初始化
+      type: "init",
       "section": "其他",
     },
     {
-      type: "feat", // 新增功能
+      type: "feat",
       "section": "新增功能",
     },
     {
-      type: "fix", // 修复
+      type: "fix",
       "section": "调整代码"
     }
   ]
