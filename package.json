@@ -6,6 +6,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "release": "standard-version",
+    "release:patch": "standard-version --release-as patch",
     "release:first": "standard-version --first-release",
     "prepare": "husky install",
     "test": "echo 1223"
