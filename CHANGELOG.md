@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v2.0.0...v2.0.1) (2022-01-08)
+
+
+### 调整代码
+
+* 🐛 正确重新安装husky依赖 ([5577648](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/55776482a73156854f51e73483905b4624080e2f))
+
+
+### 新增功能
+
+* ✨ 新增测试git hook ([25c7d77](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/25c7d7703f4d7f3677a9fb1d9f9bc917e03d12bd))
+* ✨ 新增commitlint ([461fe01](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/461fe01dad903fffbef1ce9e8c27aada96688d7a))
+* ✨ 新增husky ([91d3537](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/91d35372a1c916b73d7fc99674186a342fa695cf))
+* ✨新增一个脚本命令 ([767657a](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/commit/767657a3f7036521d80296eb6c1effd47f8987d3))
+
 ## [2.0.0](https://coderq-github/PlayGuitar-CoderQ-Sub/git-test/compare/v1.1.1...v2.0.0) (2022-01-08)
 
 
