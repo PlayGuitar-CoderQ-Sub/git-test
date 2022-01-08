@@ -12,6 +12,7 @@ function App() {
       <span>02 演示补充</span>
       <span>测试初次使用standard-version</span>
       <span>测试style</span>
+      <span>测试pref</span>
     </div>
   )
 }
