@@ -1,0 +1,69 @@
+{
+  "types": [
+    {
+      "type": "chore", // 版本升级
+      "section": "版本记录", // 在CHANGELOG 文件中的分类名
+      "hidden": false // 是否在CHANGELOG 中显示
+    },
+    {
+      "type": "style", // 改进代码结构，格式
+      "section": "其他",
+    },
+    {
+      "type": "pref", // 提升性能
+      "section": "提升性能",
+    },
+    {
+      "type": "refactor", // 重构代码
+      "section": "调整代码",
+    },
+    {
+      "type": "revert", // 撤销更改
+      "section": "其他",
+    },
+    {
+      "type": "test", // 测试
+      "section": "代码测试",
+    },
+    {
+      "type": "docs", // 编写文档或注释
+      "section": "文档、注释",
+    },
+    {
+      "type": "release", // 语义化版本
+      "section": "版本记录"
+    },
+    {
+      "type": "workflow", // 工作流改进 分支整改
+      "section": "其他",
+    },
+    {
+      "type": "mod", // 不确定的分类修改
+      "section": "其他",
+    },
+    {
+      "type": "wip", // 开发中，正在进行的功能
+      "section": "其他"
+    },
+    {
+      "type": "types", // 类型修改
+      "section": "其他"
+    },
+    {
+      "type": "update", // 修改
+      "section": "调整代码"
+    },
+    {
+      type: "init", // 初始化
+      "section": "其他",
+    },
+    {
+      type: "feat", // 新增功能
+      "section": "新增功能",
+    },
+    {
+      type: "fix", // 修复
+      "section": "调整代码"
+    }
+  ]
+}
