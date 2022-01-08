@@ -23,6 +23,7 @@ function App() {
       <span>测试ci</span>
       <span>测试mod</span>
       <span>测试wip</span>
+      <span>测试types</span>
     </div>
   )
 }
