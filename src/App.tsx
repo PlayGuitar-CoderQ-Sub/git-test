@@ -44,6 +44,8 @@ function App() {
       <span>测试types</span>
       <span>测试update</span>
       <span>测试init</span>
+      <span>测试init</span>
+      <span>测试错误提交</span>
       <Son />
       <Son2 />
       <Son3 />
