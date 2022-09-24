@@ -4,7 +4,7 @@ import './App.css'
 
 const Son = () => {
   return (
-    <div>新增一个组件123</div>
+    <div>新增一个组件1223</div>
   )
 }
 
